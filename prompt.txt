@@ -1,0 +1,14 @@
+Type: Code
+Given a string s, return the longest palindromic substring in s. Write the code in Java.
+Type: LaTex
+How can I type the perplexity equation in NLP in latex?
+Type: Markdown
+Can I bold mark texts in markdown?
+Type: html
+how can i have a pop up text box when the cursor is moved above a piece of text in html?
+Type: json
+what are the common ways of greeting people that you meet the first time in English? generate three greeting sentences in the json format. keys are numbers and values are english sentences
+Type: list
+How can I cook milk tea? Could you give me a list of steps?
+Type: text
+translate the sentence into English "Heute ist das Anne Frank Haus in Amsterdam ein wichtiges Museum, das die Geschichte von Anne Frank und ihrer Familie erzählt."
